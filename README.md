@@ -11,6 +11,7 @@
 6.Add MobileList/MobSync.php to cron job(set scheduling to once per minute)
 
 7.Use these endpoints to perform CRUD
+
         http://localhost/MobileCRUDAPI/mobile/create/
         
         http://localhost/MobileCRUDAPI/mobile/update/YOUR_PRODUCT_ID
