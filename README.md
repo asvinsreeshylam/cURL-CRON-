@@ -12,8 +12,11 @@
 
 7.Use these endpoints to perform CRUD
         http://localhost/MobileCRUDAPI/mobile/create/
+        
         http://localhost/MobileCRUDAPI/mobile/update/YOUR_PRODUCT_ID
+        
         http://localhost/MobileCRUDAPI/mobile/list/
+        
         http://localhost/MobileCRUDAPI/api/mobile/delete/YOUR_PRODUCT_ID 
 
 8.Use http://localhost/MobileList/MobileList.php (in browser) to view list
